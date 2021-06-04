@@ -1,4 +1,4 @@
 my info
 
 goto
-[musafiroon.github.io](musafiroon.github.io)
+[musafiroon.github.io](https://musafiroon.github.io)
